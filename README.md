@@ -63,8 +63,12 @@ Desenhado com Astah, o diagrama mostra:
 
 <img width="595" height="371" alt="image" src="https://github.com/user-attachments/assets/a415a487-7113-469c-b7af-69d87008a999" />
 
-
 ---
+
+## Cronograma de execução
+
+<img width="578" height="765" alt="image" src="https://github.com/user-attachments/assets/3b462f37-fd98-4bd4-a95c-c395886e18a0" />
+
 
 ## 🐳 Docker - Banco de Dados
 
@@ -73,3 +77,5 @@ Utilizamos Docker para instanciar o banco de dados PostgreSQL.
 ### Comando para subir o container:
 ```bash
 docker-compose up -d
+
+
