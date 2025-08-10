@@ -1,9 +1,3 @@
-📬 Contato </br>
-📧 Email: simones.fabio1994@gmail.com </br>
-💼 LinkedIn: Fábio Simones </br>
-🐙 GitHub: https://github.com/FabioSimones </br>
-🐙 GitHub do projeto usuário: [https://github.com/FabioSimones/usuario](https://github.com/FabioSimones/agendador-tarefas) </br>
-
 # 📌 Microsserviço: Cadastro de Usuário
 
 Este projeto faz parte de uma série de microsserviços voltados para o agendamento de tarefas. O objetivo principal é permitir que usuários se cadastrem e possam agendar tarefas, 
@@ -79,5 +73,13 @@ Utilizamos Docker para instanciar o banco de dados PostgreSQL.
 ### Comando para subir o container:
 ```bash
 docker-compose up -d
+```
+---
+
+📬 Contato </br>
+📧 Email: simones.fabio1994@gmail.com </br>
+💼 LinkedIn: Fábio Simones </br>
+🐙 GitHub: https://github.com/FabioSimones </br>
+🐙 GitHub do projeto usuário: https://github.com/FabioSimones/agendador-tarefas </br>
 
 
