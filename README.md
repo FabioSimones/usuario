@@ -80,6 +80,6 @@ docker-compose up -d
 📧 Email: simones.fabio1994@gmail.com </br>
 💼 LinkedIn: Fábio Simones </br>
 🐙 GitHub: https://github.com/FabioSimones </br>
-🐙 GitHub do projeto usuário: https://github.com/FabioSimones/agendador-tarefas </br>
+🐙 GitHub do projeto agendador: https://github.com/FabioSimones/agendador-tarefas </br>
 
 
